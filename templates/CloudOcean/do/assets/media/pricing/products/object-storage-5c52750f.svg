@@ -1,0 +1,132 @@
+<svg width="264px" height="264px" viewBox="0 0 264 264" xmlns="http://www.w3.org/2000/svg">
+  <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="50%" id="radialGradient-1">
+      <stop stop-color="#005FFF" stop-opacity="0.15" offset="0%"></stop>
+      <stop stop-color="#005FFF" stop-opacity="0" offset="100%"></stop>
+  </radialGradient>
+  <linearGradient x1="-1514.17%" y1="0%" x2="4554.8%" y2="0%" id="linearGradient-2">
+      <stop stop-color="#00D688" offset="0%"></stop>
+      <stop stop-color="#0069FF" offset="100%"></stop>
+  </linearGradient>
+  <linearGradient x1="-1.70648464%" y1="50%" x2="101.859727%" y2="50%" id="linearGradient-3">
+      <stop stop-color="#00D688" offset="0%"></stop>
+      <stop stop-color="#0069FF" offset="100%"></stop>
+  </linearGradient>
+  <linearGradient x1="-5464.17%" y1="0%" x2="604.8%" y2="0%" id="linearGradient-4">
+      <stop stop-color="#00D688" offset="0%"></stop>
+      <stop stop-color="#0069FF" offset="100%"></stop>
+  </linearGradient>
+  <linearGradient x1="0%" y1="101.54%" x2="0%" y2="-5438.18%" id="linearGradient-5">
+      <stop stop-color="#00D688" offset="0%"></stop>
+      <stop stop-color="#0069FF" offset="100%"></stop>
+  </linearGradient>
+  <linearGradient x1="50%" y1="112.375314%" x2="50%" y2="-3.51841004%" id="linearGradient-6">
+      <stop stop-color="#00D688" offset="0%"></stop>
+      <stop stop-color="#0069FF" offset="100%"></stop>
+  </linearGradient>
+  <linearGradient x1="0%" y1="5441.54%" x2="0%" y2="-98.18%" id="linearGradient-7">
+      <stop stop-color="#00D688" offset="0%"></stop>
+      <stop stop-color="#0069FF" offset="100%"></stop>
+  </linearGradient>
+  <linearGradient x1="275.68%" y1="0%" x2="-2309.46%" y2="0%" id="linearGradient-8">
+      <stop stop-color="#00D688" offset="0%"></stop>
+      <stop stop-color="#0069FF" offset="100%"></stop>
+  </linearGradient>
+  <linearGradient x1="104.36895%" y1="50%" x2="-13.6739726%" y2="50%" id="linearGradient-9">
+      <stop stop-color="#00D688" offset="0%"></stop>
+      <stop stop-color="#0069FF" offset="100%"></stop>
+  </linearGradient>
+  <linearGradient x1="2485.68%" y1="0%" x2="-99.46%" y2="0%" id="linearGradient-10">
+      <stop stop-color="#00D688" offset="0%"></stop>
+      <stop stop-color="#0069FF" offset="100%"></stop>
+  </linearGradient>
+  <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-11">
+      <stop stop-color="#0069FF" offset="0%"></stop>
+      <stop stop-color="#0069FF" stop-opacity="0" offset="100%"></stop>
+  </linearGradient>
+  <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-12">
+      <stop stop-color="#0069FF" stop-opacity="0" offset="0%"></stop>
+      <stop stop-color="#0069FF" offset="100%"></stop>
+  </linearGradient>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+      <circle fill="url(#radialGradient-1)" fill-rule="nonzero" cx="132" cy="132" r="132"></circle>
+      <path d="M210.9,92.2 C217.4,103.8 220.7,119 220.7,132 C220.7,181 181,220.7 132,220.7 C83,220.7 43.3,181 43.3,132 C43.3,87.6 76,50.7 118.7,44.3" stroke="#0069FF" stroke-width="2" stroke-linecap="round"></path>
+      <path d="M166.2,50.2 C178.3,54.7 192.1,65 201.7,76.3" stroke="#0069FF" stroke-width="2" stroke-linecap="round"></path>
+      <g transform="translate(118.000000, 156.000000)" fill-rule="nonzero">
+        <circle fill="#0069FF" cx="3.5" cy="3.4" r="2.4"></circle>
+        <path d="M3.5,2 C4.3,2 4.9,2.6 4.9,3.4 C4.9,4.2 4.3,4.8 3.5,4.8 C2.7,4.8 2.1,4.2 2.1,3.4 C2.1,2.6 2.7,2 3.5,2 L3.5,2 Z M3.5,0 C1.6,0 0.1,1.5 0.1,3.4 C0.1,5.3 1.6,6.8 3.5,6.8 C5.4,6.8 6.9,5.3 6.9,3.4 C6.9,1.5 5.3,0 3.5,0 L3.5,0 Z" fill="#FFFFFF"></path>
+      </g>
+      <g transform="translate(70.000000, 75.000000)" stroke-linecap="round" stroke-width="2">
+        <g transform="translate(48.000000, 44.000000)" stroke="#0069FF" stroke-dasharray="0,5.0779">
+          <path d="M4.3,22 C2.1,19.6 0.8,16.5 0.8,13 C0.8,8.4 3.1,4.4 6.6,2"></path>
+        </g>
+        <g transform="translate(67.000000, 44.000000)" stroke="#0069FF" stroke-dasharray="0,5.1841">
+          <path d="M4.6,3.8 C5.2,4.4 5.7,5.1 6.2,5.8"></path>
+        </g>
+        <g transform="translate(56.000000, 85.000000)" stroke="#0069FF" stroke-dasharray="0,5.5995">
+          <path d="M6,1.3 C5.4,1.3 4.8,1.3 4.2,1.2"></path>
+        </g>
+        <g transform="translate(32.000000, 27.000000)" stroke="url(#linearGradient-3)" stroke-dasharray="0,4.9872">
+          <path d="M10.7,52.1 C4.5,46.7 0.6,38.8 0.6,30 C0.6,13.8 13.7,0.7 29.9,0.7 C46.1,0.7 59.2,13.8 59.2,30 C59.2,35.2 57.9,40.1 55.5,44.3"></path>
+        </g>
+        <g transform="translate(20.000000, 76.000000)" stroke="#00D688" stroke-dasharray="0,4.7626">
+          <path d="M33.5,25.6 C19.8,23 8.3,14.3 1.9,2.4"></path>
+        </g>
+        <g transform="translate(59.000000, 11.000000)" stroke="#0069FF" stroke-dasharray="0,4.9171">
+          <path d="M5.8,0.6 C27.2,1.9 44.6,18 47.9,38.9"></path>
+        </g>
+        <g transform="translate(16.000000, 13.000000)" stroke="url(#linearGradient-6)" stroke-dasharray="0,4.9421">
+          <path d="M0.8,48.5 C0.7,47 0.6,45.5 0.6,44 C0.6,23.8 13.8,6.6 32.1,0.7"></path>
+        </g>
+        <g transform="translate(99.000000, 42.000000)" stroke="url(#linearGradient-9)" stroke-dasharray="0,5.0616">
+          <path d="M23.8,5.3 C24.3,8.4 24.6,11.7 24.6,15 C24.6,33.9 16.1,50.8 2.7,62.1"></path>
+        </g>
+        <g transform="translate(86.000000, 0.000000)" stroke="#00D688" stroke-dasharray="0,5.106">
+          <path d="M4.6,2.5 C16,8.5 25.2,17.9 31,29.4"></path>
+        </g>
+        <g transform="translate(5.000000, 19.000000)" stroke="#0069FF" stroke-dasharray="0,5.058">
+          <path d="M3,8.5 C4.2,6.3 5.6,4.1 7,2.1"></path>
+        </g>
+        <g transform="translate(0.000000, 42.000000)" stroke="#0069FF" stroke-dasharray="0,5.0829">
+          <path d="M86.7,71.4 C79.1,74.7 70.8,76.6 62,76.6 C28,76.6 0.4,49 0.4,15 C0.4,10.7 0.8,6.5 1.7,2.5"></path>
+        </g>
+      </g>
+      <circle fill="#0069FF" fill-rule="nonzero" cx="74.3" cy="112.2" r="1.4"></circle>
+      <circle fill="#0069FF" fill-rule="nonzero" cx="38.2" cy="71.9" r="1.4"></circle>
+      <g transform="translate(187.000000, 108.000000)" fill-rule="nonzero">
+        <circle fill="#0069FF" cx="3.9" cy="3.9" r="2.4"></circle>
+        <path d="M3.9,2.5 C4.7,2.5 5.3,3.1 5.3,3.9 C5.3,4.7 4.7,5.3 3.9,5.3 C3.1,5.3 2.5,4.7 2.5,3.9 C2.4,3.1 3.1,2.5 3.9,2.5 L3.9,2.5 Z M3.9,0.5 C2,0.5 0.5,2 0.5,3.9 C0.5,5.8 2,7.3 3.9,7.3 C5.8,7.3 7.3,5.8 7.3,3.9 C7.3,2 5.8,0.5 3.9,0.5 L3.9,0.5 Z" fill="#FFFFFF"></path>
+      </g>
+      <circle fill="#0069FF" fill-rule="nonzero" cx="125" cy="86.8" r="1.4"></circle>
+      <g transform="translate(128.000000, 115.000000)" fill-rule="nonzero">
+        <circle fill="#0069FF" cx="4" cy="3.7" r="2.4"></circle>
+        <path d="M4,2.3 C4.8,2.3 5.4,2.9 5.4,3.7 C5.4,4.5 4.8,5.1 4,5.1 C3.2,5.1 2.6,4.5 2.6,3.7 C2.6,2.9 3.2,2.3 4,2.3 L4,2.3 Z M4,0.3 C2.1,0.3 0.6,1.8 0.6,3.7 C0.6,5.6 2.1,7.1 4,7.1 C5.9,7.1 7.4,5.6 7.4,3.7 C7.4,1.9 5.9,0.3 4,0.3 L4,0.3 Z" fill="#FFFFFF"></path>
+      </g>
+      <circle fill="#0069FF" fill-rule="nonzero" cx="165.6" cy="183.6" r="1.4"></circle>
+      <circle fill="#0069FF" fill-rule="nonzero" cx="2.7" cy="119.8" r="1.4"></circle>
+      <circle fill="#0069FF" fill-rule="nonzero" cx="235.5" cy="111.9" r="1.4"></circle>
+      <circle fill="#0069FF" fill-rule="nonzero" cx="240.3" cy="211.5" r="1.4"></circle>
+      <circle fill="#0069FF" fill-rule="nonzero" cx="51.3" cy="209.9" r="1.4"></circle>
+      <path d="M177.5,131.8 C177.5,156.9 157.2,177.4 132.1,177.4" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"></path>
+      <path d="M86.6,90.5 C97.9,78.2 114.1,70.5 132.1,70.5 C138.7,70.5 145,71.5 150.9,73.4" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"></path>
+      <path d="M145.2,132 C145.2,139.3 139.3,145.2 132,145.2" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"></path>
+      <path d="M125,80.5 L125,50.3" stroke="#0069FF"></path>
+      <rect fill="#0069FF" fill-rule="nonzero" x="190.3" y="80.3" width="25.1" height="7.5"></rect>
+      <rect fill="#0069FF" fill-rule="nonzero" x="124.5" y="39.6" width="29.3" height="7.5"></rect>
+      <rect fill="#0069FF" fill-rule="nonzero" x="141.3" y="151.6" width="25.1" height="7.5"></rect>
+      <path d="M190.9,105.8 L190.9,91.1" stroke="#0069FF"></path>
+      <path d="M165.7,177.1 L165.7,162.3" stroke="#0069FF"></path>
+      <g transform="translate(85.000000, 142.000000)" fill-rule="nonzero">
+        <circle fill="#0069FF" cx="3.8" cy="4.2" r="2.4"></circle>
+        <path d="M3.8,2.8 C4.6,2.8 5.2,3.4 5.2,4.2 C5.2,5 4.6,5.6 3.8,5.6 C3,5.6 2.4,5 2.4,4.2 C2.4,3.4 3,2.8 3.8,2.8 L3.8,2.8 Z M3.8,0.8 C1.9,0.8 0.4,2.3 0.4,4.2 C0.4,6.1 1.9,7.6 3.8,7.6 C5.7,7.6 7.2,6.1 7.2,4.2 C7.2,2.3 5.7,0.8 3.8,0.8 L3.8,0.8 Z" fill="#FFFFFF"></path>
+      </g>
+    <g opacity="0.47" transform="translate(190.000000, 80.000000)" fill-rule="nonzero" fill="url(#linearGradient-11)">
+      <rect x="0.3" y="0.3" width="51.8" height="7.5"></rect>
+    </g>
+    <g opacity="0.47" transform="translate(124.000000, 39.000000)" fill-rule="nonzero" fill="url(#linearGradient-11)">
+      <rect x="0.5" y="0.6" width="72.6" height="7.5"></rect>
+    </g>
+    <g opacity="0.47" transform="translate(101.000000, 151.000000)" fill-rule="nonzero" fill="url(#linearGradient-12)">
+      <rect x="0.3" y="0.6" width="65" height="7.5"></rect>
+    </g>
+  </g>
+</svg>

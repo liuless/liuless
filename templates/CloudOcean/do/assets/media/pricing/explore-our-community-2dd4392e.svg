@@ -1,0 +1,37 @@
+<svg width="54px" height="51px" viewBox="0 0 54 51" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <linearGradient x1="0.129545455%" y1="50%" x2="100.129545%" y2="50%" id="linearGradient-1">
+      <stop stop-color="#0069FF" offset="0%"></stop>
+      <stop stop-color="#0069FF" stop-opacity="0.2" offset="99.5%"></stop>
+  </linearGradient>
+  <linearGradient x1="0%" y1="50%" x2="99.7181818%" y2="50%" id="linearGradient-2">
+      <stop stop-color="#0069FF" offset="0%"></stop>
+      <stop stop-color="#0069FF" stop-opacity="0.2" offset="99.5%"></stop>
+  </linearGradient>
+  <linearGradient x1="-16.3134831%" y1="50.0924171%" x2="112.525468%" y2="50.0924171%" id="linearGradient-3">
+      <stop stop-color="#0069FF" offset="0%"></stop>
+      <stop stop-color="#0069FF" stop-opacity="0.2" offset="99.5%"></stop>
+  </linearGradient>
+  <linearGradient x1="-13.1578947%" y1="49.8382075%" x2="116.165414%" y2="49.8382075%" id="linearGradient-4">
+      <stop stop-color="#0069FF" offset="0%"></stop>
+      <stop stop-color="#0069FF" stop-opacity="0.2" offset="99.5%"></stop>
+  </linearGradient>
+  <linearGradient x1="-0.640229885%" y1="49.9825806%" x2="394.762069%" y2="49.9825806%" id="linearGradient-5">
+      <stop stop-color="#0069FF" offset="0%"></stop>
+      <stop stop-color="#0069FF" stop-opacity="0.2" offset="99.5%"></stop>
+  </linearGradient>
+  <linearGradient x1="-150%" y1="49.9825806%" x2="245.402299%" y2="49.9825806%" id="linearGradient-6">
+      <stop stop-color="#0069FF" offset="0%"></stop>
+      <stop stop-color="#0069FF" stop-opacity="0.2" offset="99.5%"></stop>
+  </linearGradient>
+  <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <circle fill="url(#linearGradient-1)" fill-rule="nonzero" cx="39.6" cy="23" r="8.8"></circle>
+    <circle fill="url(#linearGradient-2)" fill-rule="nonzero" cx="13.9" cy="23.1" r="8.8"></circle>
+    <path d="M26.6,7 L26.6,0" id="XMLID_460_" stroke="#0069FF" stroke-width="2"></path>
+    <path d="M16.8,5.6 L21.3,10.1" id="XMLID_459_" stroke="#0069FF" stroke-width="2"></path>
+    <path d="M36.7,5.5 L32.2,9.9" id="XMLID_458_" stroke="#0069FF" stroke-width="2"></path>
+    <path d="M39.6,29.1 C34.5,29.1 29.9,31.3 26.8,34.9 C29.5,37.9 31.1,41.9 31.1,46.3 C31.1,47.7 30.9,49 30.6,50.2 C42.8,49.2 52.4,43.4 53.5,36.1 C50.4,31.9 45.3,29.1 39.6,29.1 Z" fill="url(#linearGradient-3)" fill-rule="nonzero"></path>
+    <path d="M26.8,34.9 C23.6,31.4 19.1,29.1 14,29.1 C8.3,29.1 3.3,31.8 0.2,36.1 C1.2,43.4 10.7,49.2 23,50.3 C22.7,49 22.5,47.7 22.5,46.4 C22.4,41.9 24.1,37.9 26.8,34.9 Z" fill="url(#linearGradient-4)" fill-rule="nonzero"></path>
+    <path d="M26.8,34.9 C24.1,37.9 22.5,41.9 22.5,46.3 C22.5,47.7 22.7,49 23,50.2 C24.3,50.3 25.6,50.4 26.9,50.4 C28.2,50.4 29.5,50.3 30.7,50.2 C31,48.9 31.2,47.6 31.2,46.3 C31.1,41.9 29.4,37.9 26.8,34.9 Z" fill="url(#linearGradient-5)" fill-rule="nonzero"></path>
+    <path d="M26.8,34.9 C24.1,37.9 22.5,41.9 22.5,46.3 C22.5,47.7 22.7,49 23,50.2 C24.3,50.3 25.6,50.4 26.9,50.4 C28.2,50.4 29.5,50.3 30.7,50.2 C31,48.9 31.2,47.6 31.2,46.3 C31.1,41.9 29.4,37.9 26.8,34.9 Z" fill="url(#linearGradient-6)" fill-rule="nonzero"></path>
+  </g>
+</svg>

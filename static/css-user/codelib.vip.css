@@ -1,0 +1,151 @@
+/********************************************************************************************
+*此站点UI由 极速V团队 - SpeedKing557 设计 微信:SpeedKing557 QQ:1276117137 更多定制欢迎咨询  *
+*承接Web 网络 Linux运维 源码二开 PHP源码功能定制 环境异常修复 Web前后台UI设计               *
+*承接国外服务器优化 防御部署与搬家 网站webshell清理 服务器日常代维 硬盘垃圾清理 安全配置等等*
+*后台编写/逆向破解/网络攻防部署 无视DDOS/CC 全球CDN加速 请联系微信: SpeedKing557            *
+*请尊重作者 请保留版权 如有发现扒站不留版权一切后果自负 极速V团队 SpeedKing557@v-team.cn    *
+********************************************************************************************/
+@charset "UTF-8";
+body{
+background-color: #f6f6f6;
+padding: 0;
+margin: auto;
+max-width: 600px;
+width: 100%;
+font-family: PingFangSC-Light, sans-serif;
+}
+.GG{
+background-color: #FFFFFF;
+height: auto;
+margin: 10px 15px 0px;
+padding: 20px;
+border-radius: 10px;
+}
+.GGNr{
+color: #FF0000;
+font-size: 15px;
+font-weight:bolder;
+text-align:center;
+}
+.GGNB{
+color: #000000;
+font-size: 11px;
+font-weight:bold;
+text-align:center;
+}
+.NAV{
+height: auto;
+padding: 10px 15px 0px;
+display: block;
+}
+.NAVRow{
+height: 72px;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+margin-bottom: 10px;
+}
+.NAVIn{
+width: 100%;
+height: 72px;
+border-radius: 10px;
+color: #000;
+background-color: #fff;
+font-weight: bolder;
+text-align: center;
+line-height: 72px;
+align-self: center;
+display: block;
+}
+.APPROW{
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: space-between;
+margin-bottom: 0px;
+}
+.Context{
+width: 20%;
+flex-grow: 1px;
+padding: 18px;
+margin-bottom: 20px;
+border-radius: 10px;
+background-color: #fff;
+}
+.ContextIcon{
+width: 30px;
+height: 30px;
+margin: auto;
+display: block;
+border-radius: 10px;
+}
+.ContextPalt{
+text-align: center;
+width: 100%;
+font-weight: lighter;
+color: #636363;
+font-size:8px;
+display: block;
+margin-top: 10px;
+margin-bottom: 8px;
+}
+.ContextName{
+text-align: center;
+width: 100%;
+font-weight: bolder;
+color: #212121;
+font-size: 10px;
+display: block;
+}
+.line{
+width: 80px;
+height: 1px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+background-color: #676767;
+margin-top: 40px;
+}
+.shuoming{
+text-align: center;
+font-size: 12px;
+color: #676767;
+width: 100%;
+display: block;
+margin-top: 40px;
+line-height: 20px;
+padding-bottom: 50px;
+}
+@media (prefers-color-scheme: dark) {
+body{
+background-color: #1b1f24;
+}
+.GG{
+background-color: #292e32;
+}
+.GGNr{
+color: #62D978;
+}
+.GGNB{
+color: #62D978;
+}
+.NAVIn{
+color: #fefefe;
+background-color: #292e32;
+}
+.Context{
+background-color: #292e32;
+}
+.ContextPalt{
+color: #abbdcf;
+}
+.ContextName{
+color: #fefefe;
+}
+.line{
+background-color: #292e32;
+}
+.shuoming{
+color: #abbdcf;
+}
+}

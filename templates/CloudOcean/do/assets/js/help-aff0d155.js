@@ -1,0 +1,2 @@
+webpackJsonp([9],{58:function(t,a,s){"use strict";(function(t){var a=document.querySelector('[data-js="cloudStatus"]');t.getJSON("../../status.digitalocean.com/api/v1/status912d.json?callback=?",function(t){var s=void 0,o=void 0;"good"===t.status?(s="good",o="Healthy"):(s="bad",o="Outstanding Issue"),a.innerHTML='<span class="Help-health--'+s+'"></span> Cloud Status: '+o}).fail(function(){a.remove()})}).call(a,s(2))}},[58]);
+//# sourceMappingURL=help.js-a92a44c2.map

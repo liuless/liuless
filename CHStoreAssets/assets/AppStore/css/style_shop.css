@@ -1,0 +1,237 @@
+html, body {
+    color: #333;
+    margin: 0;
+    height: 100%;
+    font-family: "Myriad Set Pro", "Helvetica Neue", Helvetica, Arial, Verdana, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-weight: normal;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none !important;
+    color: #000;
+}
+
+a, label, button, input, select {
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+body {
+    background: #fff;
+    color: #666;
+}
+
+html, body, div, dl, dt, dd, ol, ul, li, h1, h2, h3, h4, h5, h6, p, blockquote, pre, button, fieldset, form, input, legend, textarea, th, td {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #08acee;
+}
+
+.btnee {
+    width: 20%;
+    float: right;
+    margin-top: -2.8em;
+}
+
+button {
+    outline: 0;
+}
+
+img {
+    border: 0;
+}
+
+button, input, optgroup, select, textarea {
+    margin: 0;
+    font: inherit;
+    color: inherit;
+    outline: none;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    color: #666;
+}
+
+#picture {
+    padding-top: 0em;
+    height: 55vh;
+}
+
+#picture div {
+    text-align: center;
+}
+
+#picture img {
+    max-width: 100%;
+    max-height: 55vh;
+    display: block;
+    margin: auto;
+}
+
+.return_rigth {
+    width: 1.2em;
+    height: 1.2em;
+    display: block;
+    font-size: 2em;
+    text-align: center;
+    position: absolute;
+    top: 0.5em;
+    right: 0.5em;
+    border-radius: 30em;
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    line-height: 1.2em;
+    z-index: 9999;
+}
+
+.return {
+    width: 1.2em;
+    height: 1.2em;
+    display: block;
+    font-size: 2em;
+    position: absolute;
+    top: 0.5em;
+    left: 0.5em;
+    border-radius: 30em;
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    line-height: 1.2em;
+    z-index: 9999;
+    text-align: center;
+}
+
+.commodity {
+    width: 100%;
+    height: auto;
+    background: rgba(246, 246, 246, 0);
+    margin-top: 0em;
+}
+
+.commodity .price {
+    color: #333333;
+    width: 68%;
+    display: inline-block;
+    padding: 1em 0 0em 1em;
+    font-size: 1.1em;
+}
+
+.commodity .price_inventory {
+    position: absolute;
+    right: 1.5em;
+    margin-top: 1.2em;
+    color: coral;
+}
+
+.particulars {
+    width: 100%;
+    min-height: 6em;
+    padding: 1em;
+}
+
+.particulars p {
+    height: 2em;
+    font-size: 1.2em;
+    line-height: 1.2em;
+}
+
+.level {
+    position: absolute;
+    right: 1em;
+    font-size: 1.2em;
+    color: darkorange;
+}
+
+.shop_bottom {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    max-width: 648px;
+    height: 3.5em;
+    background: silver;
+    box-shadow: 0px -3px 16px #f2f1f1;
+}
+
+.shop_bottom button {
+    width: 100%;
+    height: 100%;
+    display: block;
+    color: #0C0C0C;
+    border: none;
+    background-color: #fff;
+}
+
+.shop_goods {
+    height: 70vh;
+    background: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    max-width: 648px;
+    z-index: 10;
+    box-shadow: 3px 3px 6px 1px #c5c8cb;
+}
+
+.shop_goods p {
+    height: 2.5em;
+    text-align: center;
+    line-height: 2.5em;
+    font-size: 1.5em;
+    color: white;
+    background: rgba(255, 0, 0, 0.79);
+    font-family: "微软雅黑 Light";
+    box-shadow: 0 6px 16px #ccc;
+}
+
+.shop_goods p span {
+    position: absolute;
+    right: 0.5em;
+    font-size: 1.2em;
+}
+
+#moneys {
+    display: block;
+    font-size: 1.2em;
+    color: red;
+}
+
+.purchase {
+    width: 100%;
+    height: auto;
+    padding: 1em;
+    height: 68%;
+    overflow-y: auto;
+}
+
+.down_shop {
+    height: 1em;
+    text-align: center;
+    width: 100%;
+    display: block;
+    color: red;
+
+}
+
+#submit, #submit_cart {
+    bottom: 1%;
+    background: #0bedcf;
+    height: 3em;
+    display: inline-block;
+    position: absolute;
+    box-shadow: 3px 3px 16px #eee;
+    line-height: 3em;
+}

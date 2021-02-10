@@ -1,0 +1,13 @@
+
+<svg width="796px" height="958px" viewBox="0 0 796 958" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="生成对账单" transform="translate(-18.000000, 0.000000)">
+            <path d="M147,0 L805,0 L810.570274,923.589901 C716.652549,842.220442 651.844129,805.16233 616.145012,812.415563 C580.445896,819.668797 516.223374,855.035792 423.477448,918.516549 C345.11193,864.17397 286.61524,832.069367 247.987377,822.20274 C209.359514,812.336114 175.697055,818.601867 147,841 L147,0 Z" id="Rectangle" fill="#FFF1D3"></path>
+            <polygon id="Shape" stroke="#FFF1D3" stroke-width="10" fill="#FFAE00" fill-rule="nonzero" points="384 640 448 640 448 512 576 512 576 448 448 448 448 384 576 384 576 320 461.44 320 566.4 214.4 521.6 169.6 416 274.56 310.4 169.6 265.6 214.4 370.56 320 256 320 256 384 384 384 384 448 256 448 256 512 384 512"></polygon>
+            <polygon id="Path-2" stroke="#FFAE00" stroke-width="41" points="39.0211669 917.272937 39.0211669 25.6012161 792.953356 25.6012161 792.953356 917.272937 626.77109 798.428648 415.987261 917.272937 226.615379 798.428648"></polygon>
+        </g>
+    </g>
+</svg>
