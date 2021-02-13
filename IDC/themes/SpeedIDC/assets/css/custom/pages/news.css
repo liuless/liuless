@@ -1,7 +1,7 @@
 header {
   padding: 180px 0 100px;
   overflow: hidden;
-  background: url(../../../images/news.jpg);
+  background: url(./../../../../assets/images/news.jpg);
   background-position: bottom,50%;
   background-repeat: no-repeat;
   background-size: cover;
